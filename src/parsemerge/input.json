@@ -1,0 +1,13 @@
+{"input":"layer5-3_",
+ "output_parse":"c49am1",
+ "n":"1",
+ "b":"50",
+ "DB_type":"refseq",
+ "DB_PreFex":"refseq_protein",
+ "core":"16",
+ "job_PreFex":"c49am1_refseq",
+ "allocation":"TG-DEB140011",
+ "email":"rsnorman@sc.edu",
+ "db_path":"/work/01868/rsnorman/db/Refseq_2013",
+ "OUTFMT":"5",
+  "MAX":"1"}

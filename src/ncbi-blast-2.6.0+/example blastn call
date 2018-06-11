@@ -1,0 +1,2 @@
+/Users/rci/Desktop/ncbi-blast-2.6.0+/bin/blastn -query /Users/rci/Desktop/Files/mergedcontignuc_1.fasta -out /Users/rci/Desktop/Files/mergedcontignuc_1.fasta.blast.xml -db /Users/rci/Desktop/ncbi-blast-2.6.0+/Database/unpacked/files/nt -max_target_seqs 1 -outfmt 5
+
