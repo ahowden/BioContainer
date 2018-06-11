@@ -1,6 +1,6 @@
 FROM alpine
 
-Copy src 
+Copy src .
 
 CMD ["ls"]
 
