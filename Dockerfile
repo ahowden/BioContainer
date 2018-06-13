@@ -2,8 +2,8 @@ FROM alpine
 
 RUN apk add --update python3 perl
 
-Copy src ./tools
+Copy ["tools","main.py","./"]
 
-CMD ["ls"]
+CMD ["python","./main.py"]
 
 EXPOSE 80
