@@ -6,4 +6,6 @@ Copy ["tools","main.py","./"]
 
 CMD ["python","./main.py"]
 
+CMD ["ls"]
+
 EXPOSE 80
