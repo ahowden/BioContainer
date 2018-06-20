@@ -6,6 +6,6 @@ Copy ["src","main.py","./"]
 
 CMD ["python","./main.py"]
 
-CMD ["ls /var/lib/docker/volumes/seq-vol/_data"]
+CMD ["ls ./volumes"]
 
 EXPOSE 80
