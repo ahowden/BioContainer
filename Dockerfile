@@ -6,6 +6,6 @@ Copy ["src","main.py","./"]
 
 CMD ["python","./main.py"]
 
-CMD ["ls ./volumes"]
+CMD ["ls"]
 
 EXPOSE 80
